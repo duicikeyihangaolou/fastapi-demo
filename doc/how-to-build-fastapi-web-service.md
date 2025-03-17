@@ -9,7 +9,7 @@
 
 ## 1. Demo 内容
 
-参考：<https://github.com/wu-wenxiang/restful-api-demo/blob/main/doc/how-to-build-rest-api-web-service.md>
+参考：<https://github.com/duicikeyihangaolou/restful-api-demo/blob/main/doc/how-to-build-rest-api-web-service.md>
 
 ### 1.1 同步写法和性能测试
 
