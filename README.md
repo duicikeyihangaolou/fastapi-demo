@@ -1,7 +1,7 @@
 # fastapi-demo
 
 - Github: <https://github.com/duicikeyihangaolou/fastapi-demo>
-- 同步到 Gitee: <https://gitee.com/wu-wen-xiang/fastapi-demo>
+- 同步到 Gitee: <https://gitee.com/duicikeyihangaolou/fastapi-demo>
 
 ## 1. 搭建过程
 
